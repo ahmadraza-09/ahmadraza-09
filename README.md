@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadraza-09&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadraza-09" /> </p>
 
-- 🔭 I’m currently working on [Royal Collection Hotels](https://www.royalcollectionhotels.com/)
+- 🔭 I’m currently looking for opportunity.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
